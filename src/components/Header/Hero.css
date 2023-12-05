@@ -1,0 +1,7 @@
+.hero {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 20rem;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.90) 0px, rgba(0, 0, 0, 0) 100%);
+}
